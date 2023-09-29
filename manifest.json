@@ -7,18 +7,18 @@
   "lang": "en-GB",
   "name": "Gabriele D'Arrigo",
   "short_name": "gabrieledarrigo",
-  "start_url": "https://www.gabrieledarrigo.it",
-  "scope": "https://www.gabrieledarrigo.it",
+  "start_url": "https://gabrieledarrigo.it",
+  "scope": "https://gabrieledarrigo.it",
   "description": "Gabriele D'Arrigo personal website",
-  "id": "https://www.gabrieledarrigo.it",
+  "id": "https://gabrieledarrigo.it",
   "icons": [
     {
-      "src": "assets/images/android-chrome-192x192.png",
+      "src": "/assets/images/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/images/android-chrome-512x512.png",
+      "src": "/assets/images/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
